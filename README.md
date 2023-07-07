@@ -1,6 +1,6 @@
 # H2-LCA-Review
 
-Systematic literature review on life cycle carbon intensity values of hydrogen production pathways
+A systematic review of life cycle greenhouse gas intensity values for hydrogen production pathways
 
 
 **Code to reproduce Figures:**
