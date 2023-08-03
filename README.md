@@ -1,4 +1,8 @@
-# H2-LCA-Review
+# A systematic review of life cycle greenhouse gas intensity values for hydrogen production pathways
+
+Replication materials for Busch, Kendall and Lipman (2023): [A systematic review of life cycle greenhouse gas intensity values for hydrogen production pathways](https://doi.org/10.1016/j.rser.2023.113588)
+
+The materials in this repository allow users to reproduce all the figures contained in the main body and supplementary information of the article.
 
 A systematic review of life cycle greenhouse gas intensity values for hydrogen production pathways
 
