@@ -4,8 +4,7 @@ Replication materials for Busch, Kendall and Lipman (2023): [A systematic review
 
 The materials in this repository allow users to reproduce all the figures contained in the main body and supplementary information of the article.
 
-A systematic review of life cycle greenhouse gas intensity values for hydrogen production pathways
-
+If you identify any error in the source code or have any further suggestions please contact Pablo Busch at pmbuschh@gmail.com.
 
 **Code to reproduce Figures:**
 * [`00-Load_CI_data.R`](https://github.com/pmbusch/H2-LCA-Review/tree/master/Scripts/00-Load_CI_data.R): Load all required data values.
